@@ -1,0 +1,90 @@
+.first{
+
+  overflow: hidden;
+  background-color: 	#a2a0a0;
+  
+}
+.heading{
+  overflow: hidden;
+   
+  padding: 10px 20px;
+  color: black;
+  font-size: 28px;
+  font-family: monospace;
+  
+}
+
+.second{
+  display: inline-block;
+  font-family: monospace;
+  color: black;
+  padding: 20px;
+  margin-left: 40px;
+  font-size: 20px;
+  padding: 50px;
+  
+}
+
+
+.second .radio1[type=radio]{
+  margin-left: 100px;
+}
+
+.second label:hover{
+  cursor: pointer;
+}
+
+.third{
+  font-family: monospace;
+  color: black;
+  padding: 30px;
+ 
+
+}
+
+.third textarea{
+  resize: none;
+}
+
+.third label{
+  margin-left: 20px;
+  margin-right: 40px;
+  font-size: 20px;
+}
+
+.fourth{
+  font-family: monospace;
+  color: black;
+  padding: 30px;
+  margin-left: 30px;
+  
+}
+
+.fourth textarea{
+  resize: none;
+}
+
+.fourth label{
+  
+  font-size: 20px;
+  display: block;
+  padding-bottom: 20px;
+  
+}
+
+
+.fifth button{
+  height: 50px;
+  width: 200px;
+  margin-left: 400px;
+  color: black;
+  background-color: #a2a0a0;
+  
+}
+
+.fifth button:hover{
+  cursor: pointer;
+  color: white;
+  background-color: black;
+
+}
